@@ -1,0 +1,5 @@
+{
+  "name": "Agent MRI - Chaos Intern Demo",
+  "description": "A dashboard to visualize and analyze the behavior of chaotic AI agents using Agent MRI.",
+  "requestFramePermissions": []
+}
