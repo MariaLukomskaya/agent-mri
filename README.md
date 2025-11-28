@@ -10,7 +10,7 @@
 
 Visualise, debug, and score the behavior of chaotic AI agents using real-time observability, risk tagging, and human-style reports.
 
-<img src="/Users/marialukomskaya/Folders/work/code/agent-mri/demo/agent-mri-0.png" width="600"/>
+<img src="/demo/agent-mri-0.png" width="600"/>
 
 ---
 
